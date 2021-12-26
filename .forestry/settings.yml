@@ -17,7 +17,6 @@ sections:
 - type: document
   path: content/data/info.json
   label: Info Page
-  read_only: false
 - type: heading
   label: General Config
 - type: document
